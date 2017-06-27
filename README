@@ -1,0 +1,1 @@
+Stand alone webserver for Othello/Reversi game. The websocket library from https://github.com/TooTallNate/Java-WebSocket is used to implement the multiplayer functionality and it is included in its compiled form in lib/Websocket.jar
